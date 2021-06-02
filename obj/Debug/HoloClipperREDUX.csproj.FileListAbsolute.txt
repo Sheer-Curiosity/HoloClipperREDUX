@@ -1,0 +1,6 @@
+C:\Users\Sheer Curiosity\source\repos\HoloClipperREDUX\bin\Debug\HoloClipperREDUX.exe
+C:\Users\Sheer Curiosity\source\repos\HoloClipperREDUX\bin\Debug\HoloClipperREDUX.pdb
+C:\Users\Sheer Curiosity\source\repos\HoloClipperREDUX\obj\Debug\HoloClipperREDUX.csprojAssemblyReference.cache
+C:\Users\Sheer Curiosity\source\repos\HoloClipperREDUX\obj\Debug\HoloClipperREDUX.csproj.CoreCompileInputs.cache
+C:\Users\Sheer Curiosity\source\repos\HoloClipperREDUX\obj\Debug\HoloClipperREDUX.exe
+C:\Users\Sheer Curiosity\source\repos\HoloClipperREDUX\obj\Debug\HoloClipperREDUX.pdb
