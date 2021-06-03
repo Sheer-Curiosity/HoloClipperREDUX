@@ -1,2 +1,3 @@
-# HoloClipperREDUX
-Rewritten, C# version of my HoloClipper PowerShell script.
+# VTuber Clip Downloader (VCDL)
+
+**Previously known as HoloClipper**
