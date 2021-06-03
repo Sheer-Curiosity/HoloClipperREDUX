@@ -1,9 +1,9 @@
-﻿using HoloClipperREDUX.Functions;
+﻿using VCDL.Functions;
 using System;
 using System.Diagnostics;
 using System.Linq;
 
-namespace HoloClipperREDUX
+namespace VCDL
 {
     class MainClass
     {

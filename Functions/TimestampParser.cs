@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HoloClipperREDUX.Functions
+namespace VCDL.Functions
 {
     public class TimestampParser
     {
