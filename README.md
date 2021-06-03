@@ -1,2 +1,3 @@
-# HoloClipperREDUX
-Rewritten, C# version of my HoloClipper PowerShell script.
+# Hololive Clip Downloader (HCDL)
+
+**Previously known as HoloClipper**
